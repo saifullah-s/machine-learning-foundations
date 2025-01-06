@@ -1,7 +1,7 @@
 # Machine Learning - Foundational Projects
 
 ## Overview  
-Numerous projects were completed, implementing foundational machine learning algorithms through which I gained a comprehensive understanding of the algorithms themselves, as well as their mathematical underpinnings. The projects involved building models from scratch, solidifying both theoretical knowledge along with practical coding and implementation proficiency.  
+Numerous machine learning projects were completed, implementing foundational algorithms through which I gained a comprehensive understanding of the algorithms themselves, as well as their mathematical underpinnings. The projects involved building models from scratch, solidifying both theoretical knowledge and practical coding/implementation skills.  
 
 **Note**: The various notebooks and code are being revised and prepared for uploading to my portfolio.  
 
