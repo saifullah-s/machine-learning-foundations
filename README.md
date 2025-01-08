@@ -2,6 +2,14 @@
 
 # Machine Learning - Foundational Projects
 
+## Summary
+-	Implemented foundational machine learning algorithms from scratch, including Decision Trees, K-Means Clustering, and an Anomaly Detection system, gaining deep insight into their mathematical principles.
+-	Solidified a robust foundation in machine learning, enabling the ability to design, implement, and adapt algorithms to solve real-world challenges effectively.
+-	Created Recommender Systems with both collaborative and content-based filtering approaches.
+-	Applied Principal Component Analysis (PCA) for dimensionality reduction, improving computational efficiency.
+-	Gained expertise in Linear Regression, Logistic Regression, feature scaling, gradient descent, and comprehensive data preprocessing.
+-	Proficient with tools/libraries like NumPy, Pandas and Scikit-learn, working in Jupyter Notebook environments.
+
 ## Overview  
 Numerous machine learning projects were completed, implementing foundational algorithms through which I gained a comprehensive understanding of the algorithms themselves, as well as their mathematical underpinnings. The projects involved building models from scratch, solidifying both theoretical knowledge and practical coding/implementation skills.  
 
